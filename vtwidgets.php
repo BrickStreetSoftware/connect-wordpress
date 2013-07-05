@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: VT Widgets
+Plugin Name: Brick Street Connect
 Description: Create a new widgets on install the plugin
 Version: vtwidgets1.0
-Author: VTAURUS Technologies {Vishnu Dutt }
+Author: Brick Street Connect {ChrisMedia }
 */
 ?><?php
 define('VTWIDGETS_NAME', 'My Sugar');
