@@ -1,9 +1,12 @@
 <?php
 /*
 Plugin Name: Brick Street Connect
-Description: Create a new widgets on install the plugin
-Version: vtwidgets1.0
-Author: Brick Street Connect {ChrisMedia }
+Plugin URI: https://github.com/BrickStreetSoftware/connect-wordpress/
+Description: A brief description of the Plugin.
+Version: The Plugin's Version Number, e.g.: 1.0
+Author: Chrismedia
+Author URI: http://brickstreetsoftware.com
+License: A "Slug" license name e.g. GPL2
 */
 ?><?php
 define('VTWIDGETS_NAME', 'My Sugar');
