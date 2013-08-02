@@ -4,7 +4,7 @@ Plugin Name: Brick Street CONNECT
 Plugin URI: https://github.com/BrickStreetSoftware/connect-wordpress/
 Description: Integrate Brick Street CONNECT with Wordpress
 Version: 1.0
-Author: chrismaeda
+Author: Brick Street Software, Inc.
 Author URI: http://brickstreetsoftware.com
 License: GPL2
 */
